@@ -1,3 +1,6 @@
+# An update 
+https://github.com/michellab/Sire/issues/397
+
 # waterswap
 Utilize the Make it rain/protein_ligand  to generate SYS_gaff2.crd and SYS_gaff2.prctop file, then use as input for the water swap notebook to do a 100 iteration for an estimated binding free energy.
 
