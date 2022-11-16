@@ -9,7 +9,13 @@ https://github.com/quantaosun/Waterswap_example/blob/main/waterswap_example.ipyn
 <img width="1250" alt="image" src="https://user-images.githubusercontent.com/75652473/202317820-7b083a8a-52d8-4356-9f21-2a67809a707a.png">
 
 
-## You need to run the first several blocks of https://github.com/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb to get two starting files before you could use this notebook.
+## You need to run the first several blocks of 
 
-<img width="1186" alt="image" src="https://user-images.githubusercontent.com/75652473/155684830-f53f212b-b295-4d49-86a0-d3a3e8bf9785.png">
+https://github.com/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb to get two starting files before you could use this notebook.
+
+These two files neede are
+
+1. SYS_gaff2.prmtop
+2. SYS_gaff2.crd
+
 
