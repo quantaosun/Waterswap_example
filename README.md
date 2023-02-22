@@ -1,6 +1,10 @@
 
 # waterswap
-
+################################ Updated about an error ###########################
+```
+!grep -v %COMMENT SYS_gaff2_temp.prmtop > SYS_gaff2.prmtop
+```
+####################################################################################
 ## You need to run the first several blocks of 
 
 https://github.com/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb to get two starting files before you could use this notebook.
