@@ -1,5 +1,7 @@
 
 # waterswap
+
+It has been noticed for the moment we have to remove some keywords inside top file before using waterswap.
 ################################ Updated about an error ###########################
 ```
 !grep -v %COMMENT SYS_gaff2_temp.prmtop > SYS_gaff2.prmtop
