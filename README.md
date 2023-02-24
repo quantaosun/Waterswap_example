@@ -5,6 +5,10 @@ It has been noticed for the moment we have to remove some keywords inside top fi
 ################################ Updated about an error ###########################
 ```
 !grep -v %COMMENT SYS_gaff2_temp.prmtop > SYS_gaff2.prmtop
+
+OR
+
+Use sire 2023 version from https://sire.openbiosim.org/install.html
 ```
 ####################################################################################
 ## You need to run the first several blocks of 
